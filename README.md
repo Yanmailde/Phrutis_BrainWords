@@ -94,7 +94,7 @@ Why did the program freeze at startup?</br>
 She didn't hang up! Program start 3090 -bits25 (20-25 min.)</br>
 The program creates tables and downloads to the device</br>
 One card requires 4GB or more of RAM to work.</br>
-The consumption depends on the size of the table (--bits) and the size of the address file.<hr>
+The consumption depends on the size of the table (-bits) and the size of the address file.<hr>
 
 What address formats can be uploaded?</br>
 All bc.., 3.., 1.., in a text file from a new line</br>
