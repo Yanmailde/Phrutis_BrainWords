@@ -1,4 +1,4 @@
-### Passphrases - Ranges (1-10000)
+### BrainWords - Ranges (1-10000)
 All possible combinations length Length 8-9 symbols</br>
 
 Priority Ranges 1-100
