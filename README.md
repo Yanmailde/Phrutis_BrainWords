@@ -19,15 +19,20 @@ You may incur losses. Think of it not as earnings, but as a lottery.
 In the [**TABLE**](https://github.com/phrutis/BrainWords/blob/main/Others/Table.md), select a **FREE** range between 1-10000
 
 **Write in telrgram [**BrainWords**](https://t.me/+3nnvdGjPsFlkNWYy)  start 1234** (the range you took)</br>
-I will add your range to [table](https://github.com/phrutis/BrainWords/blob/main/Others/Table.md) in progress</br>
+I will add your range to [**TABLE**](https://github.com/phrutis/BrainWords/blob/main/Others/Table.md) in progress</br>
 This is to keep your range from being picked up by other hunters.</br>
 This will save you from re-passing and confusion. This will speed up the search.<hr>
 
 ### Search
 Windows:</br>
-Run ```BrainWords.exe -bits 25 -range 777 -a addresses.txt -d 0``` (free range 1 - 10000)</br>
+Run ```BrainWords.exe -bits 25 -range 123 -a addresses.txt -d 0``` (free range 1 - 10000)</br>
+
+Run ```BrainWords2.exe -bits 25 -range 123 -a addresses.txt -bot 5889364881:ABG0X3XU0zvZQ5ELtR-EYR7F9OfAEVHBFeQ -id 757817039 -d 0```</br>
 
 Linux:</br>
+Run: ```chmod +x Passphrases-20xx```</br>
+Run: ```./BrainWords-20xx -bits 24 -range 5555 -a addresses.txt -d 0``` (free range 1 - 10000)</br>
+
 Run: ```chmod +x Passphrases-30xx```</br>
 Run: ```./BrainWords-30xx -bits 25 -range 7777 -a addresses.txt -d 0``` (free range 1 - 10000)</br>
 
@@ -62,8 +67,23 @@ Run each GPU separately with a new range Add your card id -d ?</br>
 ```BrainWords.exe -bits 25 -range 8888 -a addresses.txt -d 4```</br>
 If you have any difficulties with the launch, you can ask in telegram [**BrainWords**](https://t.me/+3nnvdGjPsFlkNWYy)<hr>
 
+How does the bot version work?</br>
+This is the version for those who have rigs.</br>
+Specify your telegram bot and id</br>
+If there is a find, your bot will notify you in telegrams.</br>
+Also, the standard message about the find will be in the window and will be written to the FOUND.txt file</br>
+When the range is over, the bot will send you Passed hex id</br>
+
+To test the bot, use ```-range 1```</br>
+When the total is 1,000,000,000 on the counter, the address will be FOUND.
+Example:</br>
+Run: ```BrainWords2.exe -bits 18 -range 1 -a addresses.txt -bot 5889364881:ABG0X3XU0zvZQ5ELtR-EYR7F9OfAEVHBFeQ -id 757817039```</br>
+
+How to create a [telegram bot](https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot)</br>
+How to find out your id in telegram, add [Get My ID_bot](https://t.me/getmyid_bot) /start<hr>
+
 Where can I get a base of addresses to start?</br>
-You can download the database of addresses [**HERE**](https://github.com/phrutis/Passphrases/releases/tag/4.0)<hr>
+You can download the database of addresses [**HERE**](https://github.com/phrutis/BrainWords/releases/tag/1.0)<hr>
 
 Why did the program freeze at startup?</br>
 She didn't hang up! Program start 3090 -bits25 (20-25 min.)</br>
