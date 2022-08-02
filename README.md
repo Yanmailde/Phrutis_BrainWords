@@ -80,7 +80,8 @@ Example:</br>
 Run: ```BrainWords2.exe -bits 18 -range 1 -a addresses.txt -bot 5889364881:ABG0X3XU0zvZQ5ELtR-EYR7F9OfAEVHBFeQ -id 757817039```</br>
 
 How to create a [telegram bot](https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot)</br>
-How to find out your id in telegram, add [Get My ID_bot](https://t.me/getmyid_bot) /start<hr>
+How to find out your id in telegram, add [Get My ID_bot](https://t.me/getmyid_bot) /start</br>
+This version BrainWords2.exe requires internet to work.<hr>
 
 Where can I get a base of addresses to start?</br>
 You can download the database of addresses [**HERE**](https://github.com/phrutis/BrainWords/releases/tag/1.0)<hr>
