@@ -42,6 +42,8 @@ Quick  TEST use ```-range 1``` and -bits 18</br>
 When the total is 10,000,000,000 on the counter, the address 15NttyDMPPu4mTejeAr9Dojsr7HgzoXfat will be FOUND</br>
 Run TEST```BrainWords.exe -bits 18 -range 1 -a addresses.txt -d 0```</br>
 
+![20220803_125038](https://user-images.githubusercontent.com/82582647/182582509-c32341a3-d1cc-48ad-b17a-d2108426ae4e.jpg)
+
 | GPU card   | -bits  | Speed       | Time       |
 |------------|--------|-------------|------------|
 | A100       | 26     | 200 Mkeys   | 3 days     |
