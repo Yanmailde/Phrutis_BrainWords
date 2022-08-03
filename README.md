@@ -38,8 +38,8 @@ Run: ```./BrainWords-30xx -bits 25 -range 7777 -a addresses.txt -d 0``` (free ra
 
 -d ? (GPU card number, id)</br>
 
-Quick test use ```-range 1``` and -bits 18</br>
-When the total is 1,000,000,000 on the counter, the address 15NttyDMPPu4mTejeAr9Dojsr7HgzoXfat will be FOUND</br>
+Quick  TEST use ```-range 1``` and -bits 18</br>
+When the total is 10,000,000,000 on the counter, the address 15NttyDMPPu4mTejeAr9Dojsr7HgzoXfat will be FOUND</br>
 Run TEST```BrainWords.exe -bits 18 -range 1 -a addresses.txt -d 0```</br>
 
 | GPU card   | -bits  | Speed       | Time       |
@@ -79,7 +79,7 @@ Also, the standard message about the find will be in the window and will be writ
 When the range is over, the bot will send you Passed hex id</br>
 
 To test the bot, use ```-range 1```</br>
-When the total is 1,000,000,000 on the counter, the address will be FOUND address 15NttyDMPPu4mTejeAr9Dojsr7HgzoXfat</br>
+When the total is 10,000,000,000 on the counter, FOUND address 15NttyDMPPu4mTejeAr9Dojsr7HgzoXfat</br>
 Example:</br>
 Run: ```BrainWords2.exe -bits 18 -range 1 -a addresses.txt -bot 5889364881:ABG0X3XU0zvZQ5ELtR-EYR7F9OfAEVHBFeQ -id 757817039```</br>
 
