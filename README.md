@@ -52,7 +52,7 @@ Run TEST```BrainWords.exe -bits 18 -range 1 -a addresses.txt -d 0```</br>
 | 3080 Ti    | 24     | 170 Mkeys   | 3 days     |
 | 3080       | 24     | 150 Mkeys   | 4 days     |
 | 3070 Ti    | 24     | 120 Mkeys   | 5 days     |
-| 3070       | 24     | 90 Mkeys    | 7 days     |
+| 3070       | 24     | 110 Mkeys   | 6 days     |
 | 3060       | 24     | 70 Mkeys    | 9 days     |
 | 3050       | 24     | 45 Mkeys    | 17 days    |
 | 2080 S     | 24     | 70 Mkeys    | 9 days     |
