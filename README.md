@@ -180,7 +180,7 @@ If you find an address with recent transactions, I advise you not to touch it. I
 
 All inactive hunters in the group will be deleted without warning.</br>
 When you start actively searching, you can add yourself to the group again.</br>
-Bands that are more than 2 weeks in progress are released without notice.<hr>
+Ranges that are more than 2 weeks in progress are released without notice.<hr>
 
 I have other questions.</br>
 Write questions in a telegram [**BrainWords**](https://t.me/+3nnvdGjPsFlkNWYy)<hr>
