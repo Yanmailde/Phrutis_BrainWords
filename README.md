@@ -23,13 +23,10 @@ I will add your range to [**TABLE**](https://github.com/phrutis/BrainWords/blob/
 This is to keep your range from being picked up by other hunters.</br>
 This will save you from re-passing and confusion. This will speed up the search.<hr>
 
-### Search
-Windows:</br>
+### Windows:
 Run ```BrainWords.exe -bits 25 -range 123 -a addresses.txt -d 0``` (free range 1 - 10000)</br>
 
-Run ```BrainWords2.exe -bits 25 -range 123 -a addresses.txt -bot 5889364881:ABG0X3XU0zvZQ5ELtR-EYR7F9OfAEVHBFeQ -id 757817039 -d 0```</br>
-
-Linux:</br>
+### Linux:
 Run: ```chmod +x Passphrases-20xx```</br>
 Run: ```./BrainWords-20xx -bits 24 -range 5555 -a addresses.txt -d 0``` (free range 1 - 10000)</br>
 
@@ -44,20 +41,18 @@ Run TEST```BrainWords.exe -bits 18 -range 1 -a addresses.txt -d 0```</br>
 
 ![20220803_125038](https://user-images.githubusercontent.com/82582647/182582509-c32341a3-d1cc-48ad-b17a-d2108426ae4e.jpg)
 
-| GPU card   | -bits  | Speed       | Time       |
-|------------|--------|-------------|------------|
-| A100       | 26     | 200 Mkeys   | 3 days     |
-| A6000      | 25     | 180 Mkeys   | 3 days     |
-| 3090       | 25     | 180 Mkeys   | 3 days     |
-| 3080 Ti    | 24     | 170 Mkeys   | 3 days     |
-| 3080       | 24     | 150 Mkeys   | 4 days     |
-| 3070 Ti    | 24     | 120 Mkeys   | 5 days     |
-| 3070       | 24     | 110 Mkeys   | 6 days     |
-| 3060       | 24     | 70 Mkeys    | 9 days     |
-| 3050       | 24     | 45 Mkeys    | 17 days    |
-| 2080 S     | 24     | 70 Mkeys    | 9 days     |
-| 2070       | 24     | 50 Mkeys    | 11 days    |
-| 2060       | 23     | 45 Mkeys    | 12 days    |
+| GPU card   | -bits    | Speed       | Time       |
+|------------|----------|-------------|------------|
+| A100       | 26       | 200 Mkeys   | 3 days     |
+| A6000      | 25       | 180 Mkeys   | 3 days     |
+| 3090       | 25       | 180 Mkeys   | 3 days     |
+| 3080 Ti    | 24       | 170 Mkeys   | 3 days     |
+| 3080       | 24       | 150 Mkeys   | 4 days     |
+| 3070 Ti    | 24       | 120 Mkeys   | 5 days     |
+| 3070       | 24       | 110 Mkeys   | 6 days     |
+| 3060       | 24       | 70 Mkeys    | 9 days     |
+| 2080 S     | 24       | 70 Mkeys    | 9 days     |
+| 2070       | 24       | 50 Mkeys    | 11 days    |
 <hr>
 
 ## Frequently asked Questions
@@ -72,22 +67,6 @@ Run each GPU separately with a new range Add your card id -d ?</br>
 ```BrainWords.exe -bits 24 -range 6767 -a addresses.txt -d 3```</br>
 ```BrainWords.exe -bits 25 -range 8888 -a addresses.txt -d 4```</br>
 If you have any difficulties with the launch, you can ask in telegram [**BrainWords**](https://t.me/+3nnvdGjPsFlkNWYy)<hr>
-
-How does the bot version work?</br>
-This is the version for those who have rigs.</br>
-Specify your telegram bot and id</br>
-If there is a find, your bot will notify you in telegrams.</br>
-Also, the standard message about the find will be in the window and will be written to the FOUND.txt file</br>
-When the range is over, the bot will send you Passed hex id</br>
-
-To test the bot, use ```-range 1```</br>
-When the total is 10,000,000,000 on the counter, FOUND address 15NttyDMPPu4mTejeAr9Dojsr7HgzoXfat</br>
-Example:</br>
-Run: ```BrainWords2.exe -bits 18 -range 1 -a addresses.txt -bot 5889364881:ABG0X3XU0zvZQ5ELtR-EYR7F9OfAEVHBFeQ -id 757817039```</br>
-
-How to create a [telegram bot](https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot)</br>
-How to find out your id in telegram, add [Get My ID_bot](https://t.me/getmyid_bot) /start</br>
-This version BrainWords2.exe requires internet to work.<hr>
 
 Where can I get a base of addresses to start?</br>
 You can download the database of addresses [**HERE**](https://github.com/phrutis/BrainWords/releases/tag/1.0)<hr>
