@@ -31,7 +31,8 @@ Run: ```chmod +x Passphrases-20xx```</br>
 Run: ```./BrainWords-20xx -bits 24 -range 5555 -a addresses.txt -d 0``` (free range 1 - 10000)</br>
 
 Run: ```chmod +x Passphrases-30xx```</br>
-Run: ```./BrainWords-30xx -bits 25 -range 7777 -a addresses.txt -d 0``` (free range 1 - 10000)</br>
+Run: ```./BrainWords-30xx -bits 25 -range 7777 -a addresses.txt -d 0``` (free range 1 - 10000)</br><br>
+![ram](https://user-images.githubusercontent.com/82582647/185702991-ba0ffe55-2ac9-4d2c-a386-b973c6ba63fd.png)
 
 -d ? (GPU card number, id)</br>
 
