@@ -78,7 +78,7 @@ The program creates tables and downloads to the device</br>
 One card requires 4GB or more of RAM to work.</br></br>
 ```IF YOU HAVE A LOT OF CARDS AND LOW RAM (8-16GB) USE BrainWords2 or BrainWords3```</br>
 In these versions, the minimum RAM consumption (1 GPU = need 480MB)</br>
-For RTX 3060, 3070, 3080 use -bits 23
+For RTX 3060, 3070, 3080 use -bits 23 (if error use -bits 22)
 For RTX 3090 use -bits 25</br>
 Rare false positive results are possible.</br>
 In this version, use the address database from github<hr>
